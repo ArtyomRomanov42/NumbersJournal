@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="AnchorPane" fx:id="root" prefHeight="531.0" prefWidth="900.0" style="-fx-background-color: #e6dfdd;"
+            xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1">
+    <ImageView fitHeight="122.0" fitWidth="106.0" layoutX="401.0" layoutY="355.0" pickOnBounds="true"
+               preserveRatio="true">
+        <Image url="/resources/drawable/ic_loading.gif"/>
+    </ImageView>
+    <ImageView fitHeight="201.0" fitWidth="201.0" layoutX="369.0" layoutY="66.0" pickOnBounds="true"
+               preserveRatio="true">
+        <Image url="/resources/drawable/ic_confused.png"/>
+    </ImageView>
+</AnchorPane>
